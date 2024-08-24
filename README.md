@@ -4,6 +4,7 @@
 <br/>
 
 🚀   Atualmente estou trabalhando na Basis alocado no Ministério das Comunicações (MCOM)
+<br/>
 💜   Buscando colaborar com projetos em Back-end usando PHP
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-landim-65309922/)
