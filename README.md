@@ -1,6 +1,6 @@
 # Olá  🖐️
 
-## Eu sou o Daniel Landim , um apaixonado desenvolvedor web full stack. minha paixão por software é sonhar com ideias e torná-las realidade com interfaces elegantes. Eu tomo muito cuidado com a experiência, arquitetura e qualidade do código das coisas que construo.
+## Sou um FullStack Developer 💻 . minha paixão por software é sonhar com ideias e torná-las realidade com interfaces elegantes. Eu tomo muito cuidado com a experiência, arquitetura e qualidade do código das coisas que construo.
 <br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-landim-65309922/)
