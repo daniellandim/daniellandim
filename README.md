@@ -3,6 +3,9 @@
 ## Sou um FullStack Developer 💻 . minha paixão por software é sonhar com ideias e torná-las realidade com interfaces elegantes. Eu tomo muito cuidado com a experiência, arquitetura e qualidade do código das coisas que construo.
 <br/>
 
+🚀   Atualmente estou trabalhando na Basis alocado no Ministério das Comunicações (MCOM)
+💜   Buscando colaborar com projetos em Back-end usando PHP
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-landim-65309922/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielc.landim/)
 
